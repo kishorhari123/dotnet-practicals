@@ -1,0 +1,14 @@
+/Users/harikishore/StudentAdmission/bin/Debug/net10.0/StudentAdmission
+/Users/harikishore/StudentAdmission/bin/Debug/net10.0/StudentAdmission.deps.json
+/Users/harikishore/StudentAdmission/bin/Debug/net10.0/StudentAdmission.runtimeconfig.json
+/Users/harikishore/StudentAdmission/bin/Debug/net10.0/StudentAdmission.dll
+/Users/harikishore/StudentAdmission/bin/Debug/net10.0/StudentAdmission.pdb
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.AssemblyInfoInputs.cache
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.AssemblyInfo.cs
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.csproj.CoreCompileInputs.cache
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.dll
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/refint/StudentAdmission.dll
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.pdb
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/StudentAdmission.genruntimeconfig.cache
+/Users/harikishore/StudentAdmission/obj/Debug/net10.0/ref/StudentAdmission.dll
