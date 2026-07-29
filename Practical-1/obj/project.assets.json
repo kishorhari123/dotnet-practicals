@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harikishore/StudentAdmission/StudentAdmission.csproj",
+      "projectUniqueName": "/Users/harikishore/dotnet-Practicals/Practical-1/StudentAdmission.csproj",
       "projectName": "StudentAdmission",
-      "projectPath": "/Users/harikishore/StudentAdmission/StudentAdmission.csproj",
+      "projectPath": "/Users/harikishore/dotnet-Practicals/Practical-1/StudentAdmission.csproj",
       "packagesPath": "/Users/harikishore/.nuget/packages/",
-      "outputPath": "/Users/harikishore/StudentAdmission/obj/",
+      "outputPath": "/Users/harikishore/dotnet-Practicals/Practical-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harikishore/.nuget/NuGet/NuGet.Config"
